@@ -1,0 +1,54 @@
+[
+    {
+        "name": "ソクラテス",
+        "engName": "Socrates",
+        "img":"assets/images/socrates-5650230_1280.png",
+        "urlJson":"json/socrates.json"
+    },
+    {
+        "name": "ウィリアム・シェイクスピア",
+        "engName": "William Shakespeare",
+        "img":"assets/images/william-shakespeare-6393262_1280.png",
+        "urlJson":"json/shakespeare.json"
+    },
+    {
+        "name": "ガリレオ・ガリレイ",
+        "engName": "Galileo Galilei",
+        "img":"assets/images/man-5660768_1280.png",
+        "urlJson":"json/socrates.json"
+        
+    },
+    {
+        "name": "ウィリアム・シェイクスピア",
+        "engName": "Socrates",
+        "img":"assets/images/anonymous.png",
+        "urlJson":"json/shakespeare.json"
+    },
+    {
+        "name": "ソクラテス",
+        "engName": "Socrates",
+        "img":"assets/images/socrates-5650230_1280.png",
+        "urlJson":"json/socrates.json"
+        
+    },
+    {
+        "name": "ウィリアム・シェイクスピア",
+        "engName": "Socrates",
+        "img":"assets/images/william-shakespeare-6393262_1280.png",
+        "urlJson":"json/shakespeare.json"
+    },
+    {
+        "name": "ソクラテス",
+        "engName": "Socrates",
+        "img":"assets/images/socrates-5650230_1280.png",
+        "urlJson":"json/socrates.json"
+        
+    },
+    {
+        "name": "ウィリアム・シェイクスピア",
+        "engName": "Socrates",
+        "img":"assets/images/william-shakespeare-6393262_1280.png",
+        "urlJson":"json/shakespeare.json"
+    }
+    
+]

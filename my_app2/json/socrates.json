@@ -1,0 +1,44 @@
+[
+    {
+        "name": "ソクラテス",
+        "engName": "Socrates",
+        "saying":"よりよく生きる道を探し続けることが、最高の人生を生きることだ。",
+        "img":"assets/images/socrates-5650230_1280.png"
+    },
+    {
+        "name": "ソクラテス",
+        "engName": "Socrates",
+        "saying":"本をよく読むことで自分を成長させていきなさい。本は著者がとても苦労して身に付けたことを、たやすく手に入れさせてくれるのだ。",
+        "img":"assets/images/socrates-5650230_1280.png"
+    },
+    {
+        "name": "ソクラテス",
+        "engName": "Socrates",
+        "saying":"良い本を読まない人は、字の読めない人と等しい。",
+        "img":"assets/images/socrates-5650230_1280.png"
+    },
+    {
+        "name": "ソクラテス",
+        "engName": "Socrates",
+        "saying":"自分自身が無知であることを知っている人間は、自分自身が無知であることを知らない人間より賢い。",
+        "img":"assets/images/socrates-5650230_1280.png"
+    },
+    {
+        "name": "ソクラテス",
+        "engName": "Socrates",
+        "saying":"生きるために食べよ、食べるために生きるな。",
+        "img":"assets/images/socrates-5650230_1280.png"
+    },
+    {
+        "name": "ソクラテス",
+        "engName": "Socrates",
+        "saying":"世界を動かそうと思ったら、まず自分自身を動かせ。",
+        "img":"assets/images/socrates-5650230_1280.png"
+    },
+    {
+        "name": "ソクラテス",
+        "engName": "Socrates",
+        "saying":"他人からされたら怒るようなことを人にしてはいけない。",
+        "img":"assets/images/socrates-5650230_1280.png"
+    }
+]
