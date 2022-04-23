@@ -1,3 +1,3 @@
 # GreatWords
 # トップページ
-(images/firstpage.png)
+![トップページ](images/firstpage.png)
