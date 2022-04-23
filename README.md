@@ -26,9 +26,9 @@
 </p>
 
 <p align="center">
-  <img src="images/user1.png" alt="ユーザーページ" width="300px">
+  <img src="images/user1.png" alt="ユーザーページ1" width="300px">
 </p>
 
 <p align="center">
-  <img src="images/user２.png" alt="ユーザーページ" width="300px">
+  <img src="images/user２.png" alt="ユーザーページ2" width="300px">
 </p>
