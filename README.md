@@ -2,7 +2,7 @@
 
 # ページ一覧
 <p align="center">
-  <img src="images/firstpage.png" alt="トップページ" width="00px">
+  <img src="images/firstpage.png" alt="トップページ" width="300px">
 </p>
 
 <p align="center">
