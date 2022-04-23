@@ -30,5 +30,5 @@
 </p>
 
 <p align="center">
-  <img src="images/user.png" alt="ユーザーページ" width="400px">
+  <img src="images/user２.png" alt="ユーザーページ" width="400px">
 </p>
