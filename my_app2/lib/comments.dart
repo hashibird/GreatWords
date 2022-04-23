@@ -44,13 +44,19 @@ class _CommentPageState extends State<CommentPage> {
                   icon: Icon(Icons.arrow_back_ios_new))
             ],
           ),
+          Text(
+            "~${widget.name}~",
+            style: TextStyle(fontSize: 30),
+          ),
           Expanded(
-              flex: 1,
-              child: Container(
-                padding: EdgeInsets.all(20),
-                child: Center(
-                  child:
-                      Text("「${widget.word}」", style: TextStyle(fontSize: 30)),
+              flex: 3,
+              child: SingleChildScrollView(
+                child: Container(
+                  padding: EdgeInsets.all(20),
+                  child: Center(
+                    child:
+                        Text("${widget.word}", style: TextStyle(fontSize: 30)),
+                  ),
                 ),
               )),
           Container(

@@ -76,12 +76,12 @@ class _SpeakersState extends State<Speakers> {
                         // elevation: 1,
                       )
                     : null,
-                appBar: widget.home
-                    ? AppBar(
-                        backgroundColor: AppColor.firstColor,
-                        // automaticallyImplyLeading: false,
-                      )
-                    : null,
+                // appBar: widget.home
+                //     ? AppBar(
+                //         backgroundColor: AppColor.firstColor,
+                //         // automaticallyImplyLeading: false,
+                //       )
+                //     : null,
                 backgroundColor: Colors.white,
                 body: FutureBuilder<ApiResults>(
                   future: futureApiResults,
@@ -191,7 +191,8 @@ class _SpeakersState extends State<Speakers> {
         ),
       ),
       body: Container(
-        padding: widget.home ? null : EdgeInsets.only(top: 50),
+        padding:
+            widget.home ? EdgeInsets.only(top: 100) : EdgeInsets.only(top: 50),
         child: Stack(children: [
           Container(
             child: SingleChildScrollView(
