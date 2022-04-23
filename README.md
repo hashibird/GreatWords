@@ -1,5 +1,5 @@
 # GreatWords
 # トップページ
 <p align="center">
-  <img src="images/firstpage.png" alt="トップページ" width="200px">
+  <img src="images/firstpage.png" alt="トップページ" width="400px">
 </p>
