@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="images/speaker.png" alt="トップページ" width="300px">
+  <img src="images/speakers.png" alt="トップページ" width="300px">
 </p>
 
 <p align="center">
